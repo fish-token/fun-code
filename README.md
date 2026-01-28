@@ -1,2 +1,3 @@
-# fun-commands
-Fun commands for varying versions of Minecraft (Java Edition) that do various and cool things!
+# Overview
+
+This repository is filled with fun and awesome commands for varying version of Minecraft Java Edition, having different and unique functionalities.
