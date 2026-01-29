@@ -58,7 +58,7 @@ Object.keys(window).forEach(key => {
 });
 // Optional #1 Paste (over this comment)
 // Optional #2 Paste (over this comment)
-alert('Cleanup complete! Snippet created by Fish Token. (GitHub: http://github.com/Fish-token or GitLab: https://gitlab.com/fish-token-clan)');
+console.log('Cleanup complete! Snippet created by Fish Token. (GitHub: http://github.com/Fish-token or GitLab: https://gitlab.com/fish-token-clan)');
 ```
 
 Optional #1 (faster but not as precise HTML cleanup):
