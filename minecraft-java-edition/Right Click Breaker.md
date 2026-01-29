@@ -17,15 +17,13 @@ This command alters the outcome of some right click actions. Actions that get al
 Just follow the steps below!
 
 - Place a `repeating command block` down and open it
-- Put the command (look in the `Commands` section) in it
+- Put the command (look in the **Code** section) in it
 - Toggle `Always Active` to make it run constantly
 - Press `Done` or hit `Enter` on your keyboard
 
 The effects should take place immediately.
 
-## Command(s)
-
-This is the only one, the one that sets it all up:
+## Code
 
 ```mcfunction
 tp @a ~ ~ ~
