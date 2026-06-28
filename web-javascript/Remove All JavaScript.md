@@ -1,6 +1,6 @@
-# What Does It Do?
+# What Does it Do?
 
-These snippets of JS remove all JS from the page, both visually and functionally. Some stuff removed by this snippet include:
+These snippets of JS remove all JavaScript from the page, both visually and functionally. Some stuff removed by this snippet include:
 
 - All `<script>` tags (head and body)
 - All timeouts and intervals
@@ -20,8 +20,8 @@ Just follow the steps below!
 
 - Open your browser's `Developer Tools` panel by doing one of the following:
   - Right-Click any webpage and click `Inspect` or `Inspect Element`
-  - Pressing Shift + Ctrl + C (or Shift + Cmd + C on mac)
-  - Clicking the three dots in the top right corner of your browser (to the right of your profile picture), clicking `More Tools`, then click `Developer Tools`
+  - Pressing `Shift + Ctrl + C` (or `Shift + Cmd + C` on mac)
+  - Clicking the three dots in the top right corner of your browser (to the right of your profile picture), then click `More Tools`, and finally `Developer Tools`
 - Navigate to the `Console` tab
 - Copy and paste the snippets (listed under the **Code** section)
 - Press your `Enter` key and watch the magic unfold

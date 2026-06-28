@@ -1,4 +1,4 @@
-# What Does It Do?
+# What Does it Do?
 
 This command alters the outcome of some right click actions. Actions that get altered include:
 
@@ -10,7 +10,7 @@ This command alters the outcome of some right click actions. Actions that get al
 
 - This command will not ruin or do any harm (itself) to your world or server.
 - This command should not cause any performance issues on your world or server.
-- This command was discovered on version 1.21.11, so it might not work otherwise.
+- This command was discovered on version 1.21.11, so it might not work on other versions.
 
 ## What's The Setup Process?
 
@@ -31,4 +31,4 @@ tp @a ~ ~ ~
 
 ## What's The Removal Process?
 
-Just destroy the `repeating command block` to stop all effects immediately.
+Just destroy the `repeating command block` to stop all effects instantly.
